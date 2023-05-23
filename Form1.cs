@@ -16,5 +16,11 @@ namespace Jelly_Joy
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int proporcion = OpBasicas.ConvertirANum(textBox1.Text);
+            panel1 = Iniciar.IniciarMatriz(panel1, proporcion);
+        }
     }
 }

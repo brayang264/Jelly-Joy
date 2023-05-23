@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Escritorio\Jelly Joy\Jelly Joy\bin\Debug\Jelly Joy.exe.config
+C:\Users\Admin\OneDrive\Escritorio\Jelly Joy\Jelly Joy\bin\Debug\Jelly Joy.exe
+C:\Users\Admin\OneDrive\Escritorio\Jelly Joy\Jelly Joy\bin\Debug\Jelly Joy.pdb
+C:\Users\Admin\OneDrive\Escritorio\Jelly Joy\Jelly Joy\obj\Debug\Jelly Joy.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Escritorio\Jelly Joy\Jelly Joy\obj\Debug\Jelly Joy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Escritorio\Jelly Joy\Jelly Joy\obj\Debug\Jelly_Joy.Form1.resources
+C:\Users\Admin\OneDrive\Escritorio\Jelly Joy\Jelly Joy\obj\Debug\Jelly_Joy.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Escritorio\Jelly Joy\Jelly Joy\obj\Debug\Jelly Joy.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Escritorio\Jelly Joy\Jelly Joy\obj\Debug\Jelly Joy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Escritorio\Jelly Joy\Jelly Joy\obj\Debug\Jelly Joy.exe
+C:\Users\Admin\OneDrive\Escritorio\Jelly Joy\Jelly Joy\obj\Debug\Jelly Joy.pdb
